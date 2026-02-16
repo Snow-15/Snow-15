@@ -5,7 +5,7 @@ Hi, my name is **Erholled Chlarence Dueñas**. I am a 4th year Computer Science 
 I'm passionate about pursuing a career in backend development. Right now I'm learning backend from [Boot.dev](https://www.boot.dev/) which is a backend developer course, it teaches programming languages like Python, Go, C, SQL, JavaScript and Typscript and other concepts related to backend development.
 
 ### Tools
-<img width="588" height="200" alt="image" src="https://github.com/user-attachments/assets/cc363d1d-c9ec-4449-a7ce-55142ce4d04c" />
+<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/cc363d1d-c9ec-4449-a7ce-55142ce4d04c" />
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
