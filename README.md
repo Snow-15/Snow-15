@@ -23,6 +23,7 @@ I'm passionate about pursuing a career in backend development👨‍💻. Curren
 <a href="https://www.linkedin.com/in/erholled-chlarence-dueñas" target="blank"><img width="60" height="60" alt="linkedin" src="https://github.com/user-attachments/assets/f8bade81-1aad-4656-adab-73211f2fade4" /></a>
 <a href="https://instagram.com/snow.1504" target="blank"><img width="60" height="60" alt="instagram" src="https://github.com/user-attachments/assets/f00f332b-d113-484f-a949-d178537e163e" /></a>
 <a href="https://discordapp.com/users/317881015043489794"><img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/4d669939-0b7f-4569-a3aa-8f9108fafad7" /></a>
+<a href="m.me/Erholled"><img width="60" height="60" alt="messenger" src="https://github.com/user-attachments/assets/06540e81-f6af-47f2-89a4-da8ff0bb74d8" /></a>
 </p>
 
 <!-- 
