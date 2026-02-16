@@ -1,9 +1,11 @@
 ## Hi there 👋
 
-<!--
-**Snow-15/Snow-15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, my name is **Erholled Chlarence Dueñas**. I am a 4th year Computer Science Student at Pampanga State University.
 
-Here are some ideas to get you started:
+I'm passionate about pursuing a career in backend development. Right now I'm learning backend from [Boot.dev](https://www.boot.dev/) which is a backend developer course, it teaches programming languages like Python, Go, C, SQL, JavaScript and Typscript and other concepts related to backend development.
+
+### Tools
+<img width="588" height="200" alt="image" src="https://github.com/user-attachments/assets/cc363d1d-c9ec-4449-a7ce-55142ce4d04c" />
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +15,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
