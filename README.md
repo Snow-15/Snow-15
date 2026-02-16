@@ -16,7 +16,7 @@ I'm passionate about pursuing a career in backend development👨‍💻. Curren
 <img width="60" height="60" alt="github" src="https://github.com/user-attachments/assets/f0a498f9-8523-4c3c-89a3-fc9af3f94c9f" /><br><br>
 
 - 🔭 I’m currently working on this page
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python<br><br>
 
 ### <p align="center">🤝  Connect with Me</p>
 <p align="center">
